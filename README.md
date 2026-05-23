@@ -45,3 +45,14 @@ Key Trie operations:
 
 ```cpp
 insert(string word, string line)
+```
+
+## Screenshots
+
+### Foundation Search Example
+
+![Foundation Search](screenshots/search-foundation.png)
+
+### Lip Gloss Search Example
+
+![Lip Gloss Search](screenshots/search-lip-gloss.png)
